@@ -6,7 +6,7 @@
       <option name="COMMENT_START" value="/*" />
       <option name="COMMENT_END" value="*/" />
       <option name="HEX_PREFIX" value="#" />
-      <option name="NUM_POSTFIXES" value="px,em,pt,in,cm,mm,ex,pc" />
+      <option name="NUM_POSTFIXES" value="px,em,pt,in,cm,mm,ex,pc,%" />
       <option name="HAS_BRACES" value="true" />
       <option name="HAS_PARENS" value="true" />
       <option name="HAS_STRING_ESCAPES" value="true" />
