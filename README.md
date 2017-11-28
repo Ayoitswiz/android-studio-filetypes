@@ -27,8 +27,4 @@ Notes
 ---
 I have placed the unpacked settings.jar file in the root of this repository for those that want to know whats contained inside.
 
-
-License
----
-
-![License](http://github.socketbug.com/lgplv3.png "LGPL v3 license") This project is licensed under the LGPL v3 license.
+[![Buy Me Coffee](https://peterschmalfeldt.com/buy-me-coffee.png)](https://www.paypal.me/manifestinteractive)
