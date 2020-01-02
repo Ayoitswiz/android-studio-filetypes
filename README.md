@@ -1,4 +1,4 @@
-Android Studio File Types
+Android Studio File Types ( No Longer Maintained )
 ===
 
 Android Studio Support for Additional File Types ( CSS &amp; JavaScript )
